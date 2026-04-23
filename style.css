@@ -9,7 +9,7 @@ a{
 footer {
     background-color: #191970;
     color: white;
-    text-align: center;
+    text-align: left;
     padding: auto;
     fontsize: 10px
     
@@ -24,6 +24,10 @@ h2{
     color:#121313;
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
+h3{
+    color: white;
+    font-size: 15px;
+    text-align: center;
 }
 p{
     font-family: 'Times New Roman', Times, serif;
