@@ -9,9 +9,9 @@ a{
 footer {
     background-color: #191970;
     color: white;
-    text-align: left;
+    text-align: center;
     padding: auto;
-    fontsize: 10px
+    fontsize: 15px
     
 }
 
@@ -24,10 +24,6 @@ h2{
     color:#121313;
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-h3{
-    color: white;
-    font-size: 15px;
-    text-align: center;
 }
 p{
     font-family: 'Times New Roman', Times, serif;
