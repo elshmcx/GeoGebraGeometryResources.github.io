@@ -10,7 +10,8 @@ footer {
     background-color: #191970;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: auto;
+    fontsize: 10px
     
 }
 
